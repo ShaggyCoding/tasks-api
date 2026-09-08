@@ -1,5 +1,10 @@
 # Tasks API
 
+**Live: [tasks-api-z5id.onrender.com](https://tasks-api-z5id.onrender.com)** — interaktive Doku
+unter [/docs](https://tasks-api-z5id.onrender.com/docs). Passendes Frontend:
+[tasks-web](https://github.com/ShaggyCoding/tasks-web) ([Live-Demo](https://tasks-web-xi.vercel.app)).
+(Kostenloser Hosting-Tier: schläft nach Inaktivität ein, erster Request kann ~50s dauern.)
+
 Kleine, sauber dokumentierte REST-API für Notizen/Aufgaben: E-Mail/Passwort-Auth mit
 JWT, paginierte und durchsuchbare Listen, jede Notiz gehört genau einem Nutzer.
 Gebaut, um Backend-Grundlagen unabhängig von einem konkreten Gaming-/RP-Kontext zu
